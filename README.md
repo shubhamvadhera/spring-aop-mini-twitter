@@ -1,4 +1,4 @@
-#Spring AOP Mini Twitter
+# Spring AOP Mini Twitter
 
 The project implements the retry and stats concerns of a tweeting service through Aspect Oriented Programming (AOP).
 
@@ -58,7 +58,7 @@ The two concerns are in the two files:
 
 RetryAspect.java and StatsAspect.java.
 
-###Example Stats
+### Example Stats
 
 The following examples are assuming stats are reset() before running every single example.
 
